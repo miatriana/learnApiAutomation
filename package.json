@@ -1,0 +1,25 @@
+{
+  "name": "miacourseapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "checkVersionNode": "node -v",
+    "checkVersionGit": "git -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miatriana/learnApiAutomation.git"
+  },
+  "author": "miatriana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miatriana/learnApiAutomation/issues"
+  },
+  "homepage": "https://github.com/miatriana/learnApiAutomation#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
