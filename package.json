@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "test-api": "npx mocha Test/**/*.js",
     "checkVersionNode": "node -v",
     "checkVersionGit": "git -v"
   },
